@@ -1,0 +1,73 @@
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_cdn\content.quakejs.com\fs_manifest\linuxq3ademo-1.11-6.x86.gz.sh@857908472@49292197 linuxq3apoint-1.32b-3.x86.run@296843703@30914987 baseq3/pak100.pk3@2388798635@16401505 baseq3/pak101.pk3@2206768903@2652817\version\ioq3 1.36_GIT_4f7d7bf-2014-02-01 emscripten- Feb 23 2014\com_gamename\Quake3Arena\com_protocol\71\dmflags\0\fraglimit\20\timelimit\10\g_gametype\0\mapname\q3dm1\sv_privateClients\0\sv_hostname\quakejs\sv_maxclients\12\sv_minRate\0\sv_maxRate\0\sv_dlRate\100\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\sv_allowDownload\0\gamename\baseq3\g_maxGameClients\0\capturelimit\8\g_needpass\0
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_cdn\content.quakejs.com\fs_manifest\linuxq3ademo-1.11-6.x86.gz.sh@857908472@49292197 linuxq3apoint-1.32b-3.x86.run@296843703@30914987 baseq3/pak100.pk3@2388798635@16401505 baseq3/pak101.pk3@2206768903@2652817\version\ioq3 1.36_GIT_4f7d7bf-2014-02-01 emscripten- Feb 23 2014\com_gamename\Quake3Arena\com_protocol\71\dmflags\0\fraglimit\20\timelimit\5\g_gametype\4\mapname\q3dm1\sv_privateClients\0\sv_hostname\quakejs\sv_maxclients\60\sv_minRate\0\sv_maxRate\0\sv_dlRate\100\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\sv_allowDownload\0\capturelimit\8\g_maxGameClients\0\gamename\baseq3\g_needpass\0
+  0:35 ClientConnect: 0
+  0:35 ClientUserinfoChanged: 0 n\UnnamedPlayer\t\3\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:56 ClientUserinfoChanged: 0 n\UnnamedPlayer\t\3\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:56 ClientBegin: 0
+  2:40 ClientConnect: 1
+  2:40 ClientUserinfoChanged: 1 n\UnnamedPlayer\t\3\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  2:44 ClientUserinfoChanged: 1 n\UnnamedPlayer\t\3\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  2:44 ClientBegin: 1
+  2:53 ClientUserinfoChanged: 1 n\UnnamedPlayer\t\2\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\1
+  2:53 ClientUserinfoChanged: 1 n\UnnamedPlayer\t\2\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\1
+  2:53 ClientBegin: 1
+  2:57 Item: 1 weapon_rocketlauncher
+  3:01 Item: 1 item_armor_shard
+  3:01 Item: 1 item_armor_shard
+  3:05 Item: 1 weapon_shotgun
+  3:37 Item: 1 ammo_shells
+  3:42 Item: 1 item_armor_body
+  5:00 Exit: Timelimit hit.
+  5:00 red:0  blue:0
+  5:00 score: 0  ping: 999  client: 1 UnnamedPlayer
+  5:07 ClientDisconnect: 0
+  5:51 ClientDisconnect: 1
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_cdn\content.quakejs.com\fs_manifest\linuxq3ademo-1.11-6.x86.gz.sh@857908472@49292197 linuxq3apoint-1.32b-3.x86.run@296843703@30914987 baseq3/pak100.pk3@2388798635@16401505 baseq3/pak101.pk3@2206768903@2652817\version\ioq3 1.36_GIT_4f7d7bf-2014-02-01 emscripten- Feb 23 2014\com_gamename\Quake3Arena\com_protocol\71\dmflags\0\fraglimit\20\timelimit\5\g_gametype\4\mapname\q3dm1\sv_privateClients\0\sv_hostname\quakejs\sv_maxclients\60\sv_minRate\0\sv_maxRate\0\sv_dlRate\100\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\sv_allowDownload\0\g_maxGameClients\0\capturelimit\8\gamename\baseq3\g_needpass\0
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_cdn\content.quakejs.com\fs_manifest\linuxq3ademo-1.11-6.x86.gz.sh@857908472@49292197 linuxq3apoint-1.32b-3.x86.run@296843703@30914987 baseq3/pak100.pk3@2388798635@16401505 baseq3/pak101.pk3@2206768903@2652817\version\ioq3 1.36_GIT_4f7d7bf-2014-02-01 emscripten- Feb 23 2014\com_gamename\Quake3Arena\com_protocol\71\dmflags\0\fraglimit\20\timelimit\5\g_gametype\4\mapname\q3dm1\sv_privateClients\0\sv_hostname\quakejs\sv_maxclients\60\sv_minRate\0\sv_maxRate\0\sv_dlRate\100\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\sv_allowDownload\0\capturelimit\8\g_maxGameClients\0\gamename\baseq3\g_needpass\0
+  0:35 ClientConnect: 0
+  0:35 ClientUserinfoChanged: 0 n\UnnamedPlayer\t\2\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:51 ClientUserinfoChanged: 0 n\UnnamedPlayer\t\2\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:51 ClientBegin: 0
+  0:59 Item: 0 weapon_rocketlauncher
+  1:00 Item: 0 ammo_cells
+  1:25 Item: 0 item_health_large
+  1:26 Item: 0 ammo_bullets
+  1:34 Item: 0 ammo_shells
+  1:43 Item: 0 weapon_rocketlauncher
+  1:57 Item: 0 weapon_plasmagun
+  2:01 Item: 0 item_armor_body
+  2:11 Item: 0 ammo_bullets
+  2:14 Item: 0 weapon_rocketlauncher
+  5:00 Exit: Timelimit hit.
+  5:00 red:0  blue:0
+  5:00 score: 0  ping: 999  client: 0 UnnamedPlayer
+  6:34 ClientDisconnect: 0
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_cdn\content.quakejs.com\fs_manifest\linuxq3ademo-1.11-6.x86.gz.sh@857908472@49292197 linuxq3apoint-1.32b-3.x86.run@296843703@30914987 baseq3/pak100.pk3@2388798635@16401505 baseq3/pak101.pk3@2206768903@2652817\version\ioq3 1.36_GIT_4f7d7bf-2014-02-01 emscripten- Feb 23 2014\com_gamename\Quake3Arena\com_protocol\71\dmflags\0\fraglimit\20\timelimit\5\g_gametype\3\mapname\q3dm1\sv_privateClients\0\sv_hostname\quakejs\sv_maxclients\1\sv_minRate\0\sv_maxRate\0\sv_dlRate\100\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\sv_allowDownload\0\g_maxGameClients\0\capturelimit\8\gamename\baseq3\g_needpass\0
+  0:12 ClientConnect: 0
+  0:12 ClientUserinfoChanged: 0 n\UnnamedPlayer\t\2\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:17 ClientUserinfoChanged: 0 n\UnnamedPlayer\t\2\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:17 ClientBegin: 0
+  0:23 Item: 0 ammo_bullets
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_cdn\content.quakejs.com\fs_manifest\linuxq3ademo-1.11-6.x86.gz.sh@857908472@49292197 linuxq3apoint-1.32b-3.x86.run@296843703@30914987 baseq3/pak100.pk3@2388798635@16401505 baseq3/pak101.pk3@2206768903@2652817\version\ioq3 1.36_GIT_4f7d7bf-2014-02-01 emscripten- Feb 23 2014\com_gamename\Quake3Arena\com_protocol\71\dmflags\0\fraglimit\20\timelimit\5\g_gametype\3\mapname\pro-q3tourney4\sv_privateClients\0\sv_hostname\quakejs\sv_maxclients\1\sv_minRate\0\sv_maxRate\0\sv_dlRate\100\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\sv_allowDownload\0\capturelimit\8\g_maxGameClients\0\gamename\baseq3\g_needpass\0
+  0:50 ClientConnect: 0
+  0:50 ClientUserinfoChanged: 0 n\UnnamedPlayer\t\2\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:54 ClientUserinfoChanged: 0 n\UnnamedPlayer\t\2\model\james\hmodel\*james\g_redteam\\g_blueteam\\c1\4\c2\5\hc\100\w\0\l\0\tt\0\tl\0
+  0:54 ClientBegin: 0
+  0:59 Item: 0 weapon_shotgun
+  1:14 Item: 0 weapon_rocketlauncher
+  1:23 Item: 0 item_armor_combat
+  1:29 Item: 0 ammo_bullets
+  1:29 Item: 0 ammo_bullets
+  1:37 sayteam: UnnamedPlayer: Everyone follow me
+  1:39 sayteam: UnnamedPlayer: i am the leader
+  1:44 sayteam: UnnamedPlayer: Everyone camp here
+  2:09 Item: 0 ammo_bullets
+  2:12 ClientDisconnect: 0
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_cdn\content.quakejs.com\fs_manifest\linuxq3ademo-1.11-6.x86.gz.sh@857908472@49292197 linuxq3apoint-1.32b-3.x86.run@296843703@30914987 baseq3/pak100.pk3@2388798635@16401505 baseq3/pak101.pk3@2206768903@2652817\version\ioq3 1.36_GIT_4f7d7bf-2014-02-01 emscripten- Feb 23 2014\com_gamename\Quake3Arena\com_protocol\71\dmflags\0\fraglimit\20\timelimit\5\g_gametype\3\mapname\pro-q3tourney4\sv_privateClients\0\sv_hostname\quakejs\sv_maxclients\1\sv_minRate\0\sv_maxRate\0\sv_dlRate\100\sv_minPing\0\sv_maxPing\0\sv_floodProtect\1\sv_allowDownload\0\g_maxGameClients\0\capturelimit\8\gamename\baseq3\g_needpass\0

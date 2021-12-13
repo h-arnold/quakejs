@@ -1,0 +1,21 @@
+version: '2'
+services:
+    quakejs:
+        container_name: quakejs
+        environment:
+            - SERVER=[insert your ip address here]
+            - HTTP_PORT=80
+        ports:
+            - '80:80'
+            - '27960:27960'
+        extra_hosts:
+            - "content.quakejs.com: 127.0.0.1"
+        volumes:
+            - [insert the full path to your quakejs folder here]:/quakejs
+        image: 'treyyoder/quakejs:latest'
+        
+#You may need to comment out the extra_hosts on the initial install to pull the asseets from the quakejs website.
+#If you want to alter the server.cfg, use the command:
+#sudo docker exec -u 0 -it [docker process code] /bin/bash
+#Install nano within the container (apt install nano)
+#nano /quakejs/base/baseq3/server.cfg
