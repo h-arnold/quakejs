@@ -10,11 +10,11 @@ services:
             - '27960:27960'
         extra_hosts:
             - "content.quakejs.com: 127.0.0.1"
+        #You may need to comment out extra_hosts on the initial install to pull the assets from the quakejs website.
         volumes:
             - [insert the full path to your quakejs folder here]:/quakejs
         image: 'treyyoder/quakejs:latest'
         
-#You may need to comment out the extra_hosts on the initial install to pull the asseets from the quakejs website.
 #If you want to alter the server.cfg, use the command:
 #sudo docker exec -u 0 -it [docker process code] /bin/bash
 #Install nano within the container (apt install nano)
