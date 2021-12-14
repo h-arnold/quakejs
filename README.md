@@ -7,7 +7,7 @@ This readme details the steps I took to getting a local QuakeJS server up and ru
  - Docker-Compose. If you don't have it, you can install it on a Debian based distro (such as Ubuntu, Mint or Raspbian) by typing 
  `sudo apt-get install docker-compose`  in a terminal, or by following the instructions [here](https://docs.docker.com/compose/install/).
 
- - A device that can spare around 500mb for the server. such as a Raspberry Pi 3 or 4 or an old laptop running Linux.
+ - A device that can spare around 500mb of RAM for the server. such as a Raspberry Pi 3 or 4 or an old laptop running Linux.
  - An Office 365 account if you want to complete the quiz. You can access this quiz [here](https://forms.office.com/Pages/ShareFormPage.aspx?id=FoOZLkRWgUSl8Knlv-UI-bM2I8a4l0tBqu1okXYOIv9UMlFQSzBUVVBGQTFXTUg0NzdFNVVMWDhYTC4u&sharetoken=TcCwXyZs4vsYQtxG1poo).
 
 ## How to install
